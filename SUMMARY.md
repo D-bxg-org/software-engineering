@@ -8,3 +8,4 @@
   * [用例图](uml/yong-li-tu.md)
   * [序列图](uml/xu-lie-tu.md)
   * [ER图](uml/er-tu.md)
+  * [结构图](uml/jie-gou-tu.md)
