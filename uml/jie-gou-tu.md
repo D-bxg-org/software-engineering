@@ -8,9 +8,10 @@ description: Function structure diagram
 
 又称：系统结构功能图（系统结构 的 功能结构图）(Function structure diagram)
 
+用于表达：
 
-
-用于表达一个应用都有哪些页面
+1. 有几个页面
+2. 页面上有哪些组件
 
 ## 信息
 
