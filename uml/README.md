@@ -4,10 +4,10 @@
 
 绘图顺序：
 
-1. 功能结构图（function structure diagram）
-2. 页面设计（pages design）
-3. 信息结构图（information structure diagram）
-4. 用例图（use case diagram）
-5. 类图（class diagram）
-6. ER图（entity relationship diagram）
-7. 时许图（sequence diagram）
+1. 页面设计（pages design）
+2. 功能结构图（function structure diagram）\
+   信息结构图（information structure diagram）
+3. 用例图（use case diagram）
+4. 类图（class diagram）
+5. ER图（entity relationship diagram）
+6. 时许图（sequence diagram）
